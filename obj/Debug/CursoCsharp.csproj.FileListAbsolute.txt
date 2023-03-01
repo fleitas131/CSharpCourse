@@ -1,0 +1,17 @@
+E:\Cursos Susan\Csharpcurso\CursoCsharp\bin\Debug\CursoCsharp.exe
+E:\Cursos Susan\Csharpcurso\CursoCsharp\bin\Debug\CursoCsharp.pdb
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.csprojAssemblyReference.cache
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Form1.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Properties.Resources.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.csproj.GenerateResource.cache
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.exe
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.pdb
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.OperadoresAritmeticos.frmOpAritmeticos.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.OperadoresRelacionales.frmOpRelacionales.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.OperadoresLogicos.frmOperadoresLogicos.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Ejercicio1.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Menuprincipal.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Ejercicio2.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Ejercicio3.resources
+E:\Cursos Susan\Csharpcurso\CursoCsharp\obj\Debug\CursoCsharp.Condicionales.Frmcondicionales.resources
